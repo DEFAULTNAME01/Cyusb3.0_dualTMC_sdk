@@ -13,7 +13,14 @@ The system uses non-global shutter sensors equipped with internal clock logic tr
 ## Description
 
 This project is designed for Dual-Tianmouc Stereo Camera equipped with two TMc v1.0 sensors, has USB3.0 as the transmition port.  
-It utilizes internal clock logic to trigger image acquisition and implements frame packaging technology for robust and efficient data handling on the host side.****
+It utilizes internal clock logic to trigger image acquisition and implements frame packaging technology for robust and efficient data handling on the host side.
+
+# Acknowledgements to Pre-work Teams for the original implementation.
+## Citation
+
+This repository is forked from [original-author/original-repo](https://github.com/original-author/original-repo).
+Please cite the original project if you use this code in your work.
+
 ># Tianmouc SDK miniomum version
 
 >## usages
