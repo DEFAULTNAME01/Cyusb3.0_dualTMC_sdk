@@ -1,7 +1,7 @@
-# AAA Camera Stereo Non-Global Shutter Internal Clock Logic Trigger & Frame Packaging Project
+# Dual-Tianmouc v1.0 Stereo Camera 'Non-Global Shutter with Internal Clock Logic Trigger'  Frame Packaging Project SDK
 
-This repository contains a C++ SDK (Host-side) for the AAA camera stereo system.  
-The system uses non-global shutter sensors with internal clock logic triggering, and provides frame packaging functionality for data transmission and processing.
+This repository contains a C++ SDK (Host-side) for the Dual-Tianmouc v1.0 Stereo Camera system.  
+The system uses non-global shutter sensors with internal clock logic triggering, and fpga provides frame packaging  & controls Cyusb phy chip functionality for data transmission and processing.
 
 ## Features
 
