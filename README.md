@@ -1,18 +1,18 @@
 # Dual-Tianmouc Stereo Camera v2.0 based on 'Non-Global Shutter with Internal Clock Logic Trigger'  Frame Packaging Project SDK
 
-This repository contains a C++ SDK (Host-side) for the Dual-Tianmouc v1.0 Stereo Camera system.  
-The system uses non-global shutter sensors with internal clock logic triggering, and fpga provides frame packaging  & controls Cyusb phy chip functionality for data transmission and processing.
+This repository contains a C++ SDK (Host-side) for the Dual-Tianmouc Stereo Camera v2.0 system, which also covered the 'Tianmouc SDK miniomum version'.  
+The system uses non-global shutter sensors equipped with internal clock logic triggering, and fpga provides frame packaging  & controls Cyusb phy chip functionality for data transmission and processing.
 
 ## Features
 
 - Stereo (dual-lens) camera support
-- Non-global shutter with internal clock logic trigger
-- Frame assembly (framing) and packaging for efficient data transmission
+- Random Phase Frame Alignment(assembly) & packaging
+- Efficient usb3.0 data transmission
 - C++ SDK for host-side application development
 
 ## Description
 
-This project is designed for Dual-Tianmouc Stereo Camera equipped with non-global shutter sensors (TMc v1.0).  
+This project is designed for Dual-Tianmouc Stereo Camera equipped with two TMc v1.0 sensors, has USB3.0 as the transmition port.  
 It utilizes internal clock logic to trigger image acquisition and implements frame packaging technology for robust and efficient data handling on the host side.****
 ># Tianmouc SDK miniomum version
 
