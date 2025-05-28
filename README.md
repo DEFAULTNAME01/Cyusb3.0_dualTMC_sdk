@@ -1,7 +1,7 @@
 # Dual-Tianmouc Stereo Camera v2.0 SDK
 
 This repository contains a C++ SDK (Host-side) for the Dual-Tianmouc Stereo Camera v2.0 system, which also covered the 'Tianmouc SDK miniomum version', Frame Packaging Project.  
-The system  based on 'Non-Global Shutter with Internal Clock Logic Trigger' , and fpga provides frame packaging  & controls Cyusb phy chip functionality for data transmission and processing.
+The system  based on 'Non-Global Shutter with Internal Clock Logic Trigger' , and fpga provides frame packaging  & controls Cyusb phy chip functionality for data transmission and pre IPS processing.
 
 ## Features
 
